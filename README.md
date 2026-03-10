@@ -38,3 +38,9 @@ CIFAR-10
 
 - PyTorch
 - FastAI
+
+| Experiment | Accuracy |
+|------------|----------|
+| No augmentation | 89.0% |
+| RandomCrop + Flip | 93.6% |
+| Gradient clip 0.5 | 93.6% |
