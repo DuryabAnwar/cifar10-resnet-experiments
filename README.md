@@ -1,6 +1,7 @@
-# CIFAR-10 Image Classification with WideResNet
+# CIFAR-10 Image Classification using WideResNet (93.6% Accuracy)
 
-This project trains a WideResNet model on the CIFAR-10 dataset using PyTorch and FastAI.
+This project trains a WideResNet-22-6 model on the CIFAR-10 dataset using PyTorch and FastAI.  
+Several experiments were conducted to study the impact of hyperparameters and training techniques on model performance.
 
 ## Experiments
 
